@@ -3,7 +3,7 @@
 Aquasync
 ===
 
-Aquasync is an iOS data synchronization framework based on Aquasync protocol and is a subproject of [Aquamarine iOS Model Framework](https://github.com/kaiinui/Aquamarine).
+Aquasync is an iOS data synchronization framework based on [Aquasync protocol](https://github.com/AQAquamarine/aquasync-protocol) and is a subproject of [Aquamarine iOS Model Framework](https://github.com/kaiinui/Aquamarine).
 
 Protocol
 ---
