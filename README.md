@@ -29,8 +29,8 @@ Synchronization Sequence
 Built on
 --
 
-[EDQueue](https://github.com/thisandagain/queue)
-[Realm](https://github.com/realm/realm-cocoa)
+- [EDQueue](https://github.com/thisandagain/queue)
+- [Realm](https://github.com/realm/realm-cocoa)
 
 Related Projects
 ---
