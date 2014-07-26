@@ -1,7 +1,7 @@
-AQSynchronization
+Aquasync
 =================
 
-AQSynchronization is an iOS data synchronization framework / protocol and is a subproject of [Aquamarine iOS Model Framework](https://github.com/kaiinui/Aquamarine).
+Aquasync is an iOS data synchronization framework based on Aquasync protocol and is a subproject of [Aquamarine iOS Model Framework](https://github.com/kaiinui/Aquamarine).
 
 Protocol
 ---
@@ -35,7 +35,7 @@ Built on
 Related Projects
 ---
 
-- [Aquamarine](https://github.com/kaiinui/Aquamarine) (AQSynchronization is a subproject of Aquamarine project)
+- [Aquamarine](https://github.com/kaiinui/Aquamarine) (Aquasync is a subproject of Aquamarine project)
 
 References
 ---
