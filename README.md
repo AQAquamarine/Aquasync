@@ -1,5 +1,7 @@
+![](https://dl.dropboxusercontent.com/u/7817937/_github/aquamarine/aquasync_logo.png)
+
 Aquasync
-=================
+===
 
 Aquasync is an iOS data synchronization framework based on Aquasync protocol and is a subproject of [Aquamarine iOS Model Framework](https://github.com/kaiinui/Aquamarine).
 
