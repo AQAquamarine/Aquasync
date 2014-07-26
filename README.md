@@ -26,6 +26,12 @@ Synchronization Sequence
 1. pullSync (pulls modifications from master database)
 2. pushSync (pushes modification which occured on local to master database)
 
+Built on
+--
+
+[EDQueue](https://github.com/thisandagain/queue)
+[Realm](https://github.com/realm/realm-cocoa)
+
 Related Projects
 ---
 
