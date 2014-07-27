@@ -20,6 +20,7 @@ Related Projects
 ---
 
 - [Aquamarine](https://github.com/kaiinui/Aquamarine) (Aquasync is a subproject of Aquamarine project)
+- [Aquasync-Protocol](https://github.com/AQAquamarine/aquasync-protocol) (Aquasync protocol drafts / documents.)
 
 References
 ---
