@@ -19,9 +19,16 @@ Built on
 Related Projects
 ---
 
-- [Aquamarine](https://github.com/kaiinui/Aquamarine) (Aquasync is a subproject of Aquamarine project)
-- [Aquasync-Protocol](https://github.com/AQAquamarine/aquasync-protocol) (Aquasync protocol drafts / documents.)
-- [Aquasync-Sandboc](https://github.com/AQAquamarine/aquasync-sandbox) (A ruby implementation of Aquasync to test the protocol.)
+- [Aquamarine](https://github.com/kaiinui/Aquamarine) - Aquasync is a subproject of Aquamarine project.
+- [Aquasync-Protocol](https://github.com/AQAquamarine/aquasync-protocol) - Aquasync protocol drafts / documents.
+ 
+### iOS
+- [Aquasync-iOS](https://github.com/AQAquamarine/Aquasync-iOS) 
+
+### ruby
+- [aquasync-backend-ruby](https://github.com/AQAquamarine/aquasync-backend-ruby) - An Aquasync backend in ruby.
+- [aquasync_model](https://github.com/AQAquamarine/aquasync_model) - A module to mixin Aquasync Model requirements.
+- [aquasync_deltas_aggregator](https://github.com/AQAquamarine/aquasync_deltas_aggregator) - An aggregator to pack a DeltaPack and to unpack&commit a DeltaPack.
 
 References
 ---
